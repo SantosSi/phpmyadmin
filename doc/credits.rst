@@ -932,6 +932,7 @@ Following people have contributed to translation of phpMyAdmin documentation:
     * Niemand Jedermann <predatorix\_at\_web.de>
     * Phillip Rohmberger <rohmberger\_at\_hotmail.de>
     * Hauke Henningsen <sqrt\_at\_entless.org>
+    * Silvério Santos <ssantos\_at\_web.de>
 
 * Greek
 
